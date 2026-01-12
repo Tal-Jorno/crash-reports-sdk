@@ -41,6 +41,11 @@ The SDK sends and the API stores the following fields:
 ### Deployment
 The API can be deployed to Render, Koyeb, AWS, or GCP.
 
+### Screeshots
+![Health Logs](app/images/api_health_check.png)
+![Crash Logs](app/images/logs_view.png)
+
+
 ### ⚙️ Backend Setup & Running
 1. **Installation:**
    ```bash
