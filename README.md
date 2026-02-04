@@ -44,7 +44,8 @@ The API can be deployed to Render, Koyeb, AWS, or GCP.
 ### Screeshots
 ![Health Logs](app/images/api_health_check.png)
 ![Crash Logs](app/images/logs_view.png)
-
+![Home Screen](app/images/home_screen.jpeg)
+![Crash Reporter Success](app/images/crash_reporter_success.jpeg)
 
 ### ⚙️ Backend Setup & Running
 1. **Installation:**
